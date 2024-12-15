@@ -28,7 +28,7 @@ Revive la nostalgia del Tamagotchi 🐾 y resuelve el clásico FizzBuzz 💻 mie
 ¡Aquí puedes ver ejemplos del proceso de depuración!
 
 ### 🌟 Depuración en Tamagotchi
-![Tamagotchi Debug](screenshots/debug-tamagotchi.png)
+![Tamagotchi Debug](Debug-FizzBuzz.png)
 
 ### 🔍 Puntos de Interrupción en FizzBuzz
 ![FizzBuzz Breakpoints](screenshots/debug-fizzbuzz.png)
