@@ -31,7 +31,7 @@ Revive la nostalgia del Tamagotchi 🐾 y resuelve el clásico FizzBuzz 💻 mie
 ![Tamagotchi Debug](Debug-FizzBuzz.png)
 
 ### 🔍 Puntos de Interrupción en FizzBuzz
-![FizzBuzz Breakpoints](screenshots/debug-fizzbuzz.png)
+![FizzBuzz Breakpoints]([screenshots/debug-fizzbuzz.png](https://github.com/Oumniya17/DebuggingMastery/blob/main/Debug-FizzBuzz.png))
 
 ---
 
