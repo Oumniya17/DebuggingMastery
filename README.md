@@ -39,4 +39,4 @@ Revive la nostalgia del Tamagotchi 🐾 y resuelve el clásico FizzBuzz 💻 mie
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/Tamagotchi-FizzBuzz-Journey.git
+   git clone https://github.com/Oumniya17/DebuggingMastery.git
