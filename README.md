@@ -18,8 +18,8 @@ Revive la nostalgia del Tamagotchi 🐾 y resuelve el clásico FizzBuzz 💻 mie
 
 - **src/**: Contiene el código Java con comentarios detallados.
 - **screenshots/**: Capturas del proceso de depuración en Eclipse.
-  - **Debug-Tamagotchi-1.png**: Mostrando variables clave.
-  - **Breakpoints-FizzBuzz.png**: Puntos de interrupción en acción.
+  - **Debug-Tamagotchi.png**: Mostrando variables clave.
+  - **Debug-FizzBuzz.png**: Puntos de interrupción en acción.
 - **README.md**: Este archivo, con una descripción detallada del proyecto.
 
 ---
